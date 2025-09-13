@@ -60,7 +60,7 @@ const bindPostData = (form) => {
 
 
     if(passwordRepeat.value === password.value) {
-      postData("https://ab225e3a6ad3.ngrok-free.app/auth/register/", data)
+      postData("https://3d7014648b8a.ngrok-free.app/auth/register/", data)
     }
 
 
